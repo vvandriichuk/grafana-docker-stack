@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=X_g-eJqiiLo&t=7s
+
 # grafana-docker-stack
 
 For deploying Grafana, Prometheus and Node Exporter, make these steps:
